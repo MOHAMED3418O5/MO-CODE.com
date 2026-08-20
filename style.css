@@ -321,6 +321,19 @@ body::after{
     border: 1px solid rgba(255,255,255,0.14); 
     padding: 40px; 
     box-shadow: 0 12px 28px rgba(0,0,0,0.35);
+}.cont{
+        padding: 20px;
+}
+.cont1{
+margin-top: 10px;
+        padding: 20px;
+
+}
+.front_end{
+        margin-top: 20px;
+        display:flex;
+        justify-content: center;
+        gap: 5px;
 }
 .about-content{ 
     display: grid; 
